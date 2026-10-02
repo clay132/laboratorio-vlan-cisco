@@ -30,6 +30,7 @@ Criar uma rede segmentada utilizando VLANs e permitir a comunicação entre dife
 | 40 | Diretoria | 192.168.40.0/24 | 192.168.40.1 |
 
 ## 🔀 Topologia
+![Topologia do laboratório de VLAN](topologia-vlan.png)
 
 ```text
                   ROTEADOR
